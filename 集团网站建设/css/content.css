@@ -1,0 +1,38 @@
+div#body-wrapper h1{
+	color: #444444;
+	text-align: center;
+}
+header h2{
+	font-weight: normal;
+	margin: 20px 0;
+}
+div#ckepop{
+	margin-top: 20px;
+	display: inline-block;
+	vertical-align: top;
+	border-bottom: 1px solid #d7c6c6;
+	width: 628px;
+	padding-bottom: 10px;
+}
+article p{
+	text-indent: 40px;
+	color: #444444;
+	font-size: 20px;
+	margin-top: 20px;
+	padding: 10px 0;
+}
+section.xiangguan{
+	margin-top: 20px;
+	color: #444444;
+}
+section.xiangguan a{
+	color: #3598DB;
+	text-decoration: none;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+section.xiangguan h5{
+	margin-bottom: 10px;
+	font-size: 15px;
+	color: #444444;
+}
